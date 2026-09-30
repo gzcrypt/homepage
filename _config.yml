@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jiasi Weng"
 title_separator          : "-"
 name                     : &name "Jiasi Weng"
-description              : &description "Associate Professor at Guangzhou University. Research on applied cryptography and AI security."
+description              : &description "Professor at Guangzhou University. Research on applied cryptography and AI security."
 url                      : https://gzcrypt.github.io
 baseurl                  : "/homepage"
 repository               : "gzcrypt/homepage"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiasi Weng"
   pronouns         : # example: "she/her"
-  bio              : "Associate Professor, Guangzhou University"
+  bio              : "Professor"
   location         : "Guangzhou, China"
   employer         : "Pei Dingyi Institute of Cryptography, Guangzhou University"
   uri              : # URL
