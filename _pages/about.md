@@ -15,6 +15,11 @@ Jiasi Weng joined the Pei Dingyi Institute of Cryptography at Guangzhou Universi
 
 Applied Cryptography, AI Security
 
+## New
+
+- Jiasi Weng, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
+- Jiasi Weng, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
+
 ## 代表性论文 / Selected Publications
 
 - Jiasi Weng, Jian Weng, Jilian Zhang, Ming Li, Yue Zhang, Weiqi Luo. DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive. *IEEE TDSC*, 2021. (CCF A, ESI Highly Cited / Hot Paper)
