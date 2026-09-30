@@ -9,6 +9,8 @@ redirect_from:
 
 翁嘉思于 2026 年加入广州大学裴定一密码研究院。2023 年 3 月至 2026 年 3 月任暨南大学网络空间安全学院副研究员。2021 年于暨南大学获信息安全博士学位，导师为翁健教授，博士论文为《基于区块链的安全可信协作机器学习关键技术研究》。2016–2021 年在暨南大学硕博连读；2012–2016 年于华南农业大学获软件工程学士学位。2021 年 12 月至 2022 年 7 月在香港城市大学计算机系从事博士后研究（合作导师：王聪教授），2019 年 10 月至 2020 年 10 月在该系担任研究助理。
 
+Jiasi Weng joined the Pei Dingyi Institute of Cryptography at Guangzhou University in 2026. From March 2023 to March 2026, she was an Associate Researcher at the College of Cyber Security, Jinan University. She received her Ph.D. in Information Security from Jinan University in 2021, advised by Prof. Jian Weng. Her doctoral thesis is titled *Study on the Key Technologies of Blockchain-Based Secure and Trustworthy Collaborative Machine Learning*. From 2016 to 2021, she pursued a combined Master's–Ph.D. program at Jinan University, and from 2012 to 2016 she received her B.E. in Software Engineering from South China Agricultural University. From December 2021 to July 2022, she was a postdoctoral researcher in the Department of Computer Science at City University of Hong Kong, hosted by Prof. Cong Wang; from October 2019 to October 2020, she worked as a research assistant in the same department.
+
 ## 研究方向 / Research Interests
 
 Applied Cryptography, AI Security
