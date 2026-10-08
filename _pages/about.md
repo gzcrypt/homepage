@@ -15,6 +15,22 @@ Jiasi Weng joined the Pei Dingyi Institute of Cryptography at Guangzhou Universi
 
 Applied Cryptography, AI Security
 
+## 最新工作 / Latest Work
+
+- **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
+- **Jiasi Weng**, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
+
+## 代表性论文 / Selected Publications
+
+- **Jiasi Weng**, Jian Weng, Jilian Zhang, Ming Li, Yue Zhang, Weiqi Luo. DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive. *IEEE TDSC*, 2021. (CCF A, ESI Highly Cited / Hot Paper)
+- **Jiasi Weng**, Shenglong Yao, Junjie Huang, Jian Weng, Cong Wang. Proof of Unlearning: Definitions and Instantiation. *IEEE TIFS*, 2024. (CCF A)
+- **Jiasi Weng**, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu. pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing. *IEEE TIFS*, 2023. (CCF A)
+- **Jiasi Weng**, Jian Weng, Hongwei Huang, Chengjun Cai, Cong Wang. FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. *IEEE INFOCOM*, 2021. (CCF A)
+- **Jiasi Weng**, Jian Weng, Chengjun Cai, Hongwei Huang, Cong Wang. Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS. *IEEE TDSC*, 2022. (CCF A)
+- **Jiasi Weng**, Yanyun Gu, Jia-Nan Liu, Ming Li, Jian Weng. A Publicly Accountable Machine Unlearning Method. *Chinese Journal of Computers* (计算机学报), 48(2):477-496, 2025. (CCF A)
+
+完整列表见 [Publications]({{ site.baseurl }}/publications/)。
+
 ## 科研项目 / Research Projects
 
 1. 国家自然科学基金面上项目「面向多方协作模型训练和交互的数据安全增强机制研究」（No. 62672132，2027.01.01–2030.12.31，50 万，在研，主持）  
@@ -46,22 +62,6 @@ Applied Cryptography, AI Security
 
 10. 广州市基础与应用基础研究专题启航项目「面向多方协作机器学习的模型所有权保护技术研究」（No. 2024A04J3691，2024.01.01–2025.12.31，5 万，结题，主持）  
     Guangzhou Basic and Applied Basic Research Starter Project, *Model Ownership Protection Technologies for Multi-party Collaborative Machine Learning* (No. 2024A04J3691, 2024.01.01–2025.12.31, RMB 50,000, completed, PI)
-
-## 最新工作 / Latest Work
-
-- **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
-- **Jiasi Weng**, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
-
-## 代表性论文 / Selected Publications
-
-- **Jiasi Weng**, Jian Weng, Jilian Zhang, Ming Li, Yue Zhang, Weiqi Luo. DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive. *IEEE TDSC*, 2021. (CCF A, ESI Highly Cited / Hot Paper)
-- **Jiasi Weng**, Shenglong Yao, Junjie Huang, Jian Weng, Cong Wang. Proof of Unlearning: Definitions and Instantiation. *IEEE TIFS*, 2024. (CCF A)
-- **Jiasi Weng**, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu. pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing. *IEEE TIFS*, 2023. (CCF A)
-- **Jiasi Weng**, Jian Weng, Hongwei Huang, Chengjun Cai, Cong Wang. FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. *IEEE INFOCOM*, 2021. (CCF A)
-- **Jiasi Weng**, Jian Weng, Chengjun Cai, Hongwei Huang, Cong Wang. Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS. *IEEE TDSC*, 2022. (CCF A)
-- **Jiasi Weng**, Yanyun Gu, Jia-Nan Liu, Ming Li, Jian Weng. A Publicly Accountable Machine Unlearning Method. *Chinese Journal of Computers* (计算机学报), 48(2):477-496, 2025. (CCF A)
-
-完整列表见 [Publications]({{ site.baseurl }}/publications/)。
 
 ## 联系 / Contact
 
