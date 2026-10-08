@@ -27,11 +27,11 @@ Applied Cryptography, AI Security
 - **Jiasi Weng**, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu. pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing. *IEEE TIFS*, 2023. (CCF A)
 - **Jiasi Weng**, Jian Weng, Hongwei Huang, Chengjun Cai, Cong Wang. FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. *IEEE INFOCOM*, 2021. (CCF A)
 - **Jiasi Weng**, Jian Weng, Chengjun Cai, Hongwei Huang, Cong Wang. Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS. *IEEE TDSC*, 2022. (CCF A)
+- **Jiasi Weng**, Yanyun Gu, Jia-Nan Liu, Ming Li, Jian Weng. A Publicly Accountable Machine Unlearning Method. *Chinese Journal of Computers* (计算机学报), 48(2):477-496, 2025. (CCF A)
 
 完整列表见 [Publications]({{ site.baseurl }}/publications/)。
 
 ## 联系 / Contact
 
 - Email: [wengjiasi@gzhu.edu.cn](mailto:wengjiasi@gzhu.edu.cn)
-- GitHub: [gzcrypt](https://github.com/gzcrypt)
 - Google Scholar: [Jiasi Weng](https://scholar.google.com/citations?user=USmKzzsAAAAJ)
