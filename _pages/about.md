@@ -60,6 +60,30 @@ Applied Cryptography, AI Security
 9. 广州市基础与应用基础研究专题启航项目「面向多方协作机器学习的模型所有权保护技术研究」（No. 2024A04J3691，2024.01.01–2025.12.31，5 万，结题，主持）  
     Guangzhou Basic and Applied Basic Research Starter Project, *Model Ownership Protection Technologies for Multi-party Collaborative Machine Learning* (No. 2024A04J3691, 2024.01.01–2025.12.31, RMB 50,000, completed, PI)
 
+## 代表性奖励 / Selected Honors and Awards
+
+- 2025 年度国家科技进步奖二等奖（第十完成人）  
+  Second Prize, National Science and Technology Progress Award, 2025 (10th contributor)
+- 2024 年度中国计算机学会区块链专业委员会优秀博士学位论文  
+  Outstanding Ph.D. Dissertation Award, CCF Blockchain Technical Committee, 2024
+- 2023 年度广东省科技进步奖一等奖（第六完成人）  
+  First Prize, Guangdong Science and Technology Progress Award, 2023 (6th contributor)
+- 2024 年开源安全奖励计划国内开源社区贡献一等奖指导教师（本科生：陈佳佳，全校仅一位）  
+  Advisor, First Prize for Domestic Open Source Community Contribution, 2024 Open Source Security Reward Program (undergraduate advisee: Chen Jiajia; sole university-wide recipient)
+- 2024 年第四届全国密码科普竞赛第三等奖指导教师（硕士生：辜燕云，李沂修，李凌志）  
+  Advisor, Third Prize, 4th National Cryptography Popular Science Competition, 2024 (master's advisees: Gu Yanyun, Li Yixiu, Li Lingzhi)
+- 2020 年广东省计算机学会优秀论文一等奖（第一完成人）  
+  First Prize, Guangdong Computer Society Outstanding Paper Award, 2020 (first contributor)
+- 2021 年国际学术会议 WISA 2021 最佳学术论文奖（第四完成人）  
+  Best Paper Award, WISA 2021 (4th contributor)
+
+## 学术兼职 / Academic Service
+
+- 担任 MSA 2024、ICBCTIS 2025、CyberSciTech 2026 等国际会议论坛合作主席、程序委员会成员  
+  Forum co-chair and program committee member for international conferences including MSA 2024, ICBCTIS 2025, and CyberSciTech 2026
+- 担任 IEEE TIFS、IEEE TDSC、IEEE TCC、IEEE TSC、IEEE TNSM 等国际学术期刊论文审稿人  
+  Reviewer for *IEEE TIFS*, *IEEE TDSC*, *IEEE TCC*, *IEEE TSC*, *IEEE TNSM*, and other international journals
+
 ## 联系 / Contact
 
 - Email: [wengjiasi@gzhu.edu.cn](mailto:wengjiasi@gzhu.edu.cn)
