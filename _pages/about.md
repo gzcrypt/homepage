@@ -15,18 +15,18 @@ Jiasi Weng joined the Pei Dingyi Institute of Cryptography at Guangzhou Universi
 
 Applied Cryptography, AI Security
 
-## New
+## 最新工作 / Latest Work
 
-- Jiasi Weng, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
-- Jiasi Weng, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
+- **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
+- **Jiasi Weng**, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
 
 ## 代表性论文 / Selected Publications
 
-- Jiasi Weng, Jian Weng, Jilian Zhang, Ming Li, Yue Zhang, Weiqi Luo. DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive. *IEEE TDSC*, 2021. (CCF A, ESI Highly Cited / Hot Paper)
-- Jiasi Weng, Shenglong Yao, Junjie Huang, Jian Weng, Cong Wang. Proof of Unlearning: Definitions and Instantiation. *IEEE TIFS*, 2024. (CCF A)
-- Jiasi Weng, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu. pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing. *IEEE TIFS*, 2023. (CCF A)
-- Jiasi Weng, Jian Weng, Hongwei Huang, Chengjun Cai, Cong Wang. FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. *IEEE INFOCOM*, 2021. (CCF A)
-- Jiasi Weng, Jian Weng, Chengjun Cai, Hongwei Huang, Cong Wang. Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS. *IEEE TDSC*, 2022. (CCF A)
+- **Jiasi Weng**, Jian Weng, Jilian Zhang, Ming Li, Yue Zhang, Weiqi Luo. DeepChain: Auditable and Privacy-Preserving Deep Learning with Blockchain-based Incentive. *IEEE TDSC*, 2021. (CCF A, ESI Highly Cited / Hot Paper)
+- **Jiasi Weng**, Shenglong Yao, Junjie Huang, Jian Weng, Cong Wang. Proof of Unlearning: Definitions and Instantiation. *IEEE TIFS*, 2024. (CCF A)
+- **Jiasi Weng**, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu. pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing. *IEEE TIFS*, 2023. (CCF A)
+- **Jiasi Weng**, Jian Weng, Hongwei Huang, Chengjun Cai, Cong Wang. FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. *IEEE INFOCOM*, 2021. (CCF A)
+- **Jiasi Weng**, Jian Weng, Chengjun Cai, Hongwei Huang, Cong Wang. Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS. *IEEE TDSC*, 2022. (CCF A)
 
 完整列表见 [Publications]({{ site.baseurl }}/publications/)。
 
