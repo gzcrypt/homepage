@@ -19,4 +19,15 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<style>
+  article.page:has(meta[itemprop="headline"][content="About"]) .page__content {
+    text-align: justify;
+    text-justify: inter-ideograph;
+  }
+
+  article.page:has(meta[itemprop="headline"][content="About"]) .page__content h2 {
+    text-align: left;
+  }
+</style>
+
 <!-- end custom head snippets -->
