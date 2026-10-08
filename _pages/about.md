@@ -15,6 +15,38 @@ Jiasi Weng joined the Pei Dingyi Institute of Cryptography at Guangzhou Universi
 
 Applied Cryptography, AI Security
 
+## 科研项目 / Research Projects
+
+1. 国家自然科学基金面上项目「面向多方协作模型训练和交互的数据安全增强机制研究」（No. 62672132，2027.01.01–2030.12.31，50 万，在研，主持）  
+   NSFC General Program, *Data Security Enhancement Mechanisms for Multi-party Collaborative Model Training and Interaction* (No. 62672132, 2027.01.01–2030.12.31, RMB 500,000, ongoing, PI)
+
+2. 国家自然科学基金青年科学基金项目「面向多方协作机器学习的安全与隐私保护技术研究」（No. 62302192，2024.01.01–2026.12.31，30 万，在研，主持）  
+   NSFC Young Scientists Fund, *Security and Privacy Protection Technologies for Multi-party Collaborative Machine Learning* (No. 62302192, 2024.01.01–2026.12.31, RMB 300,000, ongoing, PI)
+
+3. 广东省自然科学基金面上项目「面向人工智能的高效密态计算研究」（No. 2026A1515010190，2026.01.01–2028.12.31，10 万，在研，主持）  
+   Guangdong Natural Science Foundation General Program, *Efficient Encrypted Computation for Artificial Intelligence* (No. 2026A1515010190, 2026.01.01–2028.12.31, RMB 100,000, ongoing, PI)
+
+4. 广东省委网信办青年拔尖人才项目「跨境电子产品全生命周期安全监测体系研究」（2025.08.01–2028.08.01，主持）  
+   Guangdong Provincial Cyberspace Administration Young Top Talent Program, *Research on Full-Lifecycle Security Monitoring Systems for Cross-border Electronic Products* (2025.08.01–2028.08.01, PI)
+
+5. 广东省自然科学基金面上项目「面向联邦学习的数据删除安全与隐私保护研究」（No. 2024A1515010086，2024.01.01–2026.12.31，15 万，在研，主持）  
+   Guangdong Natural Science Foundation General Program, *Secure and Privacy-preserving Data Deletion for Federated Learning* (No. 2024A1515010086, 2024.01.01–2026.12.31, RMB 150,000, ongoing, PI)
+
+6. 国家自然科学基金重点项目「基于密码学的多方隐私计算关键技术研究」（No. 62332007，2024.01.01–2028.12.31，231 万，在研，排名第二）  
+   NSFC Key Program, *Key Technologies of Multi-party Privacy Computing Based on Cryptography* (No. 62332007, 2024.01.01–2028.12.31, RMB 2.31 million, ongoing, rank-2 participant)
+
+7. 中国博士后科学基金第 17 批特别资助项目「面向生成式人工智能的多方隐私计算技术研究」（No. 2024T170348，18 万，结题，主持）  
+   China Postdoctoral Science Foundation Special Grant (17th cohort), *Multi-party Privacy Computing Technologies for Generative Artificial Intelligence* (No. 2024T170348, RMB 180,000, completed, PI)
+
+8. 中央高校基本科研业务费（自然科学）项目「青年科技人才托举工程项目」（2025.01.01–2026.12.31，10 万，结题，主持）  
+   Fundamental Research Funds for the Central Universities (Natural Sciences), *Young Science and Technology Talent Support Program* (2025.01.01–2026.12.31, RMB 100,000, completed, PI)
+
+9. 中央高校基本科研业务费（自然科学）项目「安全可信的协作机器学习关键技术研究」（2023.06.01–2024.12.31，9 万，结题，主持）  
+   Fundamental Research Funds for the Central Universities (Natural Sciences), *Key Technologies for Secure and Trustworthy Collaborative Machine Learning* (2023.06.01–2024.12.31, RMB 90,000, completed, PI)
+
+10. 广州市基础与应用基础研究专题启航项目「面向多方协作机器学习的模型所有权保护技术研究」（No. 2024A04J3691，2024.01.01–2025.12.31，5 万，结题，主持）  
+    Guangzhou Basic and Applied Basic Research Starter Project, *Model Ownership Protection Technologies for Multi-party Collaborative Machine Learning* (No. 2024A04J3691, 2024.01.01–2025.12.31, RMB 50,000, completed, PI)
+
 ## 最新工作 / Latest Work
 
 - **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
