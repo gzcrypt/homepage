@@ -17,8 +17,8 @@ Applied Cryptography, AI Security
 
 ## 最新工作 / Latest Work
 
-- **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
 - **Jiasi Weng**, Jian Weng, Minrong Chen, Ming Li, Jia-Nan Liu, Zhi Li, Yue Zhang. From Neural Intent to Cryptographic Authorization: Securing AI-Driven Enterprise Workflows. *arXiv:2607.15596*, 2026. [PDF](https://arxiv.org/pdf/2607.15596)
+- **Jiasi Weng**, Jian Weng, Ming Li. A Built-in Crypto Expert for Artificial Intelligence: How Far is the Horizon? *Cryptology ePrint Archive*, 2026. [ePrint](https://eprint.iacr.org/2026/411)
 
 ## 代表性论文 / Selected Publications
 

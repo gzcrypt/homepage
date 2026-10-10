@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiasi Weng"
   pronouns         : # example: "she/her"
-  bio              : "Professor"
+  bio              : # example: "Personal pronouns or short title"
   location         : "Guangzhou, China"
   employer         : "Pei Dingyi Institute of Cryptography, Guangzhou University"
   uri              : # URL
